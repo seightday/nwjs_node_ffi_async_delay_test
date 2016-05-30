@@ -1,0 +1,11 @@
+{
+  "name": "nwapp",
+  "main": "test.html",
+  "single-instance":true,
+  "window":{
+  },
+  "dependencies": {
+	"ffi": "2.0.0",
+    "log4js":"0.6.35"
+  }
+}

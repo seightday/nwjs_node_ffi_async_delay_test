@@ -1,0 +1,105 @@
+<body>
+<p id="tip" style="text-shadow:2px 2px 5px #000;">startup</p>
+
+</body>
+<script>
+
+	var logger = require('loggers')('test');
+
+
+
+
+
+
+		var ffi = require('ffi');
+		var dll =ffi.Library('dll/demojson1', {
+			'DllJson': [ 'string', [ 'string' ] ]
+		});
+		
+		logger.info(`invoke test`)
+		var v=	dll.DllJson(JSON.stringify({Name:'test',TimeOut:2000}))
+		logger.info(`invode test return result after 2000ms,result is ${v}`)
+		
+		logger.info('invoke test1')
+	dll.DllJson.async(JSON.stringify({Name:'test',TimeOut:2000}),function (err,r) {
+		logger.info(`test1 2 result is ${r}`)
+	})
+	dll.DllJson.async(JSON.stringify({Name:'test',TimeOut:4000}),function (err,r) {
+		logger.info(`test1 4 result is ${r}`)
+	})
+	dll.DllJson.async(JSON.stringify({Name:'test',TimeOut:6000}),function (err,r) {
+		logger.info(`test1 6 result is ${r}`)
+	})
+	dll.DllJson.async(JSON.stringify({Name:'test',TimeOut:8000}),function (err,r) {
+		logger.info(`test1 8 result is ${r}`)
+	})
+		dll.DllJson.async(JSON.stringify({Name:'test',TimeOut:10000}),function (err,r) {
+			logger.info(`test1 10 result is ${r}`)
+		})
+
+
+
+
+
+
+
+
+	window.setTimeout(function () {
+		var dll2 =ffi.Library('dll/demojson2', {
+			'DllJson': [ 'string', [ 'string' ] ]
+		});
+		logger.info('invoke test2')
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:1000}),function (err,r) {
+			logger.info(`test2 1 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:3000}),function (err,r) {
+			logger.info(`test2 3 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:5000}),function (err,r) {
+			logger.info(`test2 5 result is ${r}`)
+		})
+
+
+	},3000)
+
+	window.setTimeout(function () {
+		var dll2 =ffi.Library('dll/demojson3', {
+			'DllJson': [ 'string', [ 'string' ] ]
+		});
+		logger.info('invoke test3')
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:1000}),function (err,r) {
+			logger.info(`test3 1 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:3000}),function (err,r) {
+			logger.info(`test3 3 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:5000}),function (err,r) {
+			logger.info(`test3 5 result is ${r}`)
+		})
+
+
+	},1000)
+
+	window.setTimeout(function () {
+		var dll2 =ffi.Library('dll/demojson4', {
+			'DllJson': [ 'string', [ 'string' ] ]
+		});
+		logger.info('invoke test4')
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:1000}),function (err,r) {
+			logger.info(`test4 1 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:3000}),function (err,r) {
+			logger.info(`test4 3 result is ${r}`)
+		})
+		dll2.DllJson.async(JSON.stringify({Name:'test',TimeOut:5000}),function (err,r) {
+			logger.info(`test4 5 result is ${r}`)
+		})
+
+
+	},1000)
+
+
+
+
+</script>
+

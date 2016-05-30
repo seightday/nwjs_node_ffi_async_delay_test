@@ -1,0 +1,469 @@
+[0506/205219:INFO:nw_package.cc(175)] "D:\workspaces\eclipse\workspace\AEP\NJW\PROB\nwjssdk\nw.exe"
+[0506/205249:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/205523:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/210018:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/210128:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/210217:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/210825:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/232821:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/232936:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/234312:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/234646:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/235022:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0506/235200:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0510/174239:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/112022:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/112233:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/113632:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/144531:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/145509:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/145545:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/150454:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/151030:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/151130:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0513/151152:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/091622:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/092118:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/092308:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/092851:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/092917:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/093024:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/093038:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/093644:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/094157:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/094516:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/095623:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/095651:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/095745:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/095847:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/100045:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/100549:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/100629:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/100657:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/100820:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101005:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfffda000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff9f000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff9c000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff99000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff96000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff93000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff90000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff8d000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff8a000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff87000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff84000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff81000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff7e000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff7b000, size 0xf84 fully unreadable
+[0514/101042:ERROR:process_info.cc(608)] range at 0xfff78000, size 0xf84 fully unreadable
+[0514/101043:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101140:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101244:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101722:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101737:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/101918:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/102015:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/102119:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/102414:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/102551:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/102725:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/103014:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfffda000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff9f000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff9c000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff96000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff93000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff99000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff90000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff8d000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff8a000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff87000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff84000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff81000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff7e000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff7b000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff78000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff75000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff72000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff6f000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff6c000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff69000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff66000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff63000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff60000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff5d000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff5a000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff57000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff54000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff51000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff4e000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff4b000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff48000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff45000, size 0xf84 fully unreadable
+[0514/103022:ERROR:process_info.cc(608)] range at 0xfff42000, size 0xf84 fully unreadable
+[0514/103531:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/103733:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/103848:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/104108:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/110431:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfffda000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff9f000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff9c000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff99000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff96000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff93000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff90000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff8d000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff81000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff7e000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff7b000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff78000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff8a000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff87000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff84000, size 0xf84 fully unreadable
+[0514/111114:ERROR:process_info.cc(608)] range at 0xfff75000, size 0xf84 fully unreadable
+[0514/111639:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/112118:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/112440:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/112735:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/112803:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/112829:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/113036:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/113047:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/115511:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfffda000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfffd7000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff9f000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff9c000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff99000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff96000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff93000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff90000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff8d000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff8a000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff84000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff81000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff7e000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff7b000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff75000, size 0xf84 fully unreadable
+[0514/120026:ERROR:process_info.cc(608)] range at 0xfff78000, size 0xf84 fully unreadable
+[0514/123931:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/124438:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/124533:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/143224:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/143315:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/212540:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213022:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213105:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213139:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213350:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213519:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213702:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213757:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/213859:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214108:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214223:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214258:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214330:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214338:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/214359:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0514/221848:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/101710:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/101938:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/102531:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/102633:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/102832:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/105627:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/110204:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/112944:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0516/113712:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/101424:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/101735:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/102313:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/102403:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111351:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111512:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111608:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111626:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111757:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/111923:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/114212:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/114443:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/114516:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/131525:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/131558:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/131748:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/132310:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/132956:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/133129:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/134025:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/134314:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/135104:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/135155:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/135818:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/135953:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/140603:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/140830:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141158:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141230:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141308:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141406:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141511:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/141648:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/142223:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/142333:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/142632:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/142708:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/142857:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/143713:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/143800:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/143855:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/143936:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/144023:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/150646:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0517/151348:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0518/093704:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0518/094039:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0518/095528:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0518/104743:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/092739:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/093126:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/093146:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/093309:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/093410:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/093523:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/102829:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/103057:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/103314:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/103419:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/103444:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0519/103820:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/104134:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/104312:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/104440:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/111515:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/114137:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/130309:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/132338:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/132938:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/133252:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/133511:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/133634:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/133700:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/133941:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/135059:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/135424:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/141112:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/141540:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/142743:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/160117:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/163100:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/163319:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/163328:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/171819:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/172215:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/172401:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/172953:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/173709:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/173916:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/174155:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/174403:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/174530:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/175524:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/175634:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/175707:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/175758:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/175929:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/180049:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/180446:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/180701:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/180834:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0519/181145:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/103505:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/103628:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/103750:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/103909:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/104139:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/104555:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/105144:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/105942:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/110718:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/110726:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/111050:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/111128:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/111208:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/111714:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/111842:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/112344:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/112935:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/134800:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/134931:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/155046:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/155619:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/155724:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0520/160057:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/104414:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/104439:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/110011:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/111627:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/111658:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112307:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112318:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112331:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112340:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112422:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112429:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112441:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/112447:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113008:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113046:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113052:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113057:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113103:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113109:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113114:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113119:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113125:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113152:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113200:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113206:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113232:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113244:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113254:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113309:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113403:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113408:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113413:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113418:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113425:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113432:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113454:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/113459:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/131431:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/131439:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/132645:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/132943:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/133348:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/133618:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/134335:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/134945:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/135220:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/135320:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/135527:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/163710:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/164205:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/164211:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0523/171627:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/113907:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/114354:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/132822:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/132952:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/133149:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/133234:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/133550:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/133718:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/133930:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/134202:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/134607:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/135514:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/135540:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/164742:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/164943:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/170114:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/170202:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/170417:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/170440:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/170750:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/171055:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/171335:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/171859:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/175113:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/175920:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/175939:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0524/180005:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/132602:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/133736:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134305:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134359:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134619:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134700:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134715:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134818:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134819:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/134911:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135113:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135207:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135308:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135438:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135557:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135645:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135710:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135735:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/135903:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/140320:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/140353:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/141341:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/141422:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/141522:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/141622:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145305:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145348:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145437:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145755:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145838:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/145946:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/150858:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151116:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151407:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151609:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151641:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151654:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151712:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/151834:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0525/152939:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/111717:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/111810:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112123:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112407:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112600:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112626:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112726:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/112953:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/135230:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/140133:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/140309:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/140422:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/141400:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/141522:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0527/141621:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/142642:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/142752:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/143114:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/145911:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/150215:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/150600:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/151758:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/162918:INFO:nw_package.cc(175)] "..\..\..\PROB\nwjssdk\nw.exe" .
+[0530/164105:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/164317:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/164718:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/164748:ERROR:image_metadata_extractor.cc(114)] Couldn't load libexif. 126
+[0530/165101:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/165855:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/170029:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/170114:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/170414:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/170503:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
+[0530/170639:INFO:nw_package.cc(175)] "..\nwjssdk\nw.exe" .
