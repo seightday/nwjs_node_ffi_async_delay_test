@@ -1,0 +1,2 @@
+# nwjs_node_ffi_async_delay_test
+在nwjs中，通过ffi调用动态库的延时方法，当被调用的延时方法次数过多时，导致后被调用的方法异步返回严重超过
