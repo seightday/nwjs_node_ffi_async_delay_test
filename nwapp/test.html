@@ -6,7 +6,11 @@
 
 	var logger = require('loggers')('test');
 
-
+	
+//直接修改windows系统参数，process.env.UV_THREADPOOL_SIZE为undefined
+//logger.info(`size ${process.env.UV_THREADPOOL_SIZE}`)
+//通过代码设置无效
+//process.env.UV_THREADPOOL_SIZE=64;
 
 
 
