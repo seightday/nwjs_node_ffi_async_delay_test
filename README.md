@@ -3,4 +3,5 @@
 通过nwapp/runsdk.bat运行，查看test日志
 
 
+2016-10-15，记录解决方法
 在runsdk.bat脚本中设置UV_THREADPOOL_SIZE可生效；设置系统环境变更或者通过代码设置，无效
