@@ -5,4 +5,4 @@
 
 2016-10-15，记录解决方法
 
-在runsdk.bat脚本中设置UV_THREADPOOL_SIZE可生效；设置系统环境变更或者通过代码设置，无效
+在runsdk.bat脚本中设置UV_THREADPOOL_SIZE可生效；设置系统环境，需要重启系统生效；通过代码设置，无效
